@@ -1,0 +1,8 @@
+rain-tracker-app:
+  pages:
+    - label: "Home"
+      url: /rain-tracker-app
+    - label: "Support"
+      url: /rain-tracker-app/support
+    - label: "Privacy Policy"
+      url: /rain-tracker-app/privacy-policy
