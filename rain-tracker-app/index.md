@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Rain Tracker"
 permalink: /rain-tracker-app
 ---

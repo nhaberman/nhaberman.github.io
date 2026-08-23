@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Rain Tracker - Privacy Policy"
 permalink: /rain-tracker-app/privacy-policy
 ---
