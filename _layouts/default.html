@@ -32,6 +32,20 @@
         </header>
     </div>
 
+    {% if page.app_key %}
+      {% assign app = site.data.apps[page.app_key] %}
+      {% if app %}
+      <!-- APP NAV -->
+      <div id="app_nav_wrap" class="outer">
+        <nav class="inner">
+          {% for item in app.pages %}
+            <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} class="current"{% endif %}>{{ item.label }}</a>
+          {% endfor %}
+        </nav>
+      </div>
+      {% endif %}
+    {% endif %}
+
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">

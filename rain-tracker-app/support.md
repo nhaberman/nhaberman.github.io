@@ -4,6 +4,7 @@ title: "Rain Tracker - Support"
 permalink: /rain-tracker-app/support
 app_title: "Rain Tracker"
 app_description: "Log rain measurements, synced automatically via iCloud"
+app_key: rain-tracker-app
 ---
 
 **Support**
