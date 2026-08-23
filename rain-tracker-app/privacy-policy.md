@@ -2,6 +2,8 @@
 layout: default
 title: "Rain Tracker - Privacy Policy"
 permalink: /rain-tracker-app/privacy-policy
+app_title: "Rain Tracker"
+app_description: "Log rain measurements, synced automatically via iCloud"
 ---
 
 **Privacy Policy**

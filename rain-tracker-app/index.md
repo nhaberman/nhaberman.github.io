@@ -2,6 +2,8 @@
 layout: default
 title: "Rain Tracker"
 permalink: /rain-tracker-app
+app_title: "Rain Tracker"
+app_description: "Log rain measurements, synced automatically via iCloud"
 ---
 
 **Rain Tracker**
