@@ -14,6 +14,8 @@ The Application does not collect, log, or store any personal information when yo
 
 The measurements and data you enter into the Application are stored in your own private iCloud database via Apple's CloudKit. This data is not transmitted to or accessible by the Service Provider, and is not stored on any servers operated by the Service Provider.
 
+The Application allows you to export your data to a CSV file, which you may then share or store using iOS's built-in share sheet (for example, saving to Files, AirDrop, or email). This export is initiated entirely by you, and the Service Provider has no access to or knowledge of exported files or where you choose to send them.
+
 **Does the Application collect precise real time location information of the device?**
 
 This Application does not collect precise information about the location of your mobile device.
