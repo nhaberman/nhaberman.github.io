@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Rain Tracker - Privacy Policy"
+permalink: /rain-tracker-app/privacy-policy
+---
+
 **Privacy Policy**
 
 This privacy policy applies to the Rain Tracker app for mobile devices, together with any related services operated by First Last (collectively, the "Application"). First Last is hereby referred to as the "Service Provider".
