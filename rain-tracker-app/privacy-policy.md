@@ -16,6 +16,8 @@ The measurements and data you enter into the Application are stored in your own 
 
 The Application allows you to export your data to a CSV file, which you may then share or store using iOS's built-in share sheet (for example, saving to Files, AirDrop, or email). This export is initiated entirely by you, and the Service Provider has no access to or knowledge of exported files or where you choose to send them.
 
+The Application offers an optional in-app tip to support development. Tips are processed entirely by Apple through StoreKit; the Service Provider does not receive, process, or have access to any payment information.
+
 **Does the Application collect precise real time location information of the device?**
 
 This Application does not collect precise information about the location of your mobile device.
